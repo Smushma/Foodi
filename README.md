@@ -1,2 +1,2 @@
 # Foodi
-Python script for GCP object recognition
+Python script for Google Vision object recognition
